@@ -6,7 +6,9 @@ Example of a service written in Golang with a Mongo DB and Gorilla Mux
 
 ### Checkout the project
 
-git clone git@github.com:fcortesgamez/go-mongodb-example.git $GOPATH/src/github.com/go-mongodb-example
+```shell
+git clone git@github.com:fcortesgamez/go-mongodb-example.git $GOPATH/src/github.com/fcortesgamez/go-mongodb-example
+```
 
 ### Build the webshop web service
 
